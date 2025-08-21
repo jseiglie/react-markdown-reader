@@ -32,6 +32,6 @@ Currently using the `replace()` method to deal with some of the Spanish special 
         />
 ```
 
-Thanks and keep iot up!
+Thanks and keep it up!
 
 @JavierSeiglie
